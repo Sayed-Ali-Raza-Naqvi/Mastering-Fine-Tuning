@@ -25,3 +25,7 @@ This project demonstrates how to fine-tune a pre-trained language model using ad
 ### 5. Inference and Model Saving
 - The fine-tuned model is evaluated on a sample review to generate predictions.
 - The final model is saved locally for future use and can be optionally uploaded to the Hugging Face Hub.
+
+## Acknowledgments
+- Krish Naik
+- Sunny Savita
